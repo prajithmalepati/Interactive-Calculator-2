@@ -40,4 +40,3 @@ Feel free to customize the calculator's appearance and behavior to suit your spe
 Enjoy using the Interactive Calculator 2!
 
 
-https://prajithmalepati.github.io/Interactive-Calculator-2/
