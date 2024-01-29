@@ -1,6 +1,6 @@
 # Interactive Calculator 2
 
-This project is an interactive calculator implemented in JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator supports keyboard input as well as button clicks for a seamless user experience. [Live demo](https://prajithmalepati.github.io/Interactive-Calculator-2/)
+This project is an interactive calculator implemented in JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator supports keyboard input as well as button clicks for a seamless user experience.  [Live demo](https://prajithmalepati.github.io/Interactive-Calculator-2/)
 
 
 ## Features
